@@ -37,7 +37,7 @@ It offers a library of films and television series through distribution deals as
 
 Our objective is to conduct an Exploratory Data Analysis to understand what content is available in different countries and if Netflix has been increasingly focusing on TV rather than movies in recent years. And use these insights to cluster similar content by matching text-based features.
 
-After loading the data, we start by observing the first and last five values to understand the dataset. Next, we treat the null values by dropping them if the respective variables contain <1% of null values. This is followed by feature engineering to extract new variables from the datetime variable date_added.
+After loading the data, we start by observing the first and last five values to understand the dataset. This is followed by feature engineering to extract new variables from the datetime variable date_added.
 
 This cleaned data is then used to conduct EDA in order to understand it better and identify the underlying trends.
 
